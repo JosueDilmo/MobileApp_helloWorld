@@ -1,6 +1,5 @@
 <resources>
     <string name="app_name">hello world</string>
     <string name="hello_dorset">Hello Dorset College!</string>
-    <string name="newText">new text view</string>
     <string name="buttonBtn">Click here</string>
 </resources>
